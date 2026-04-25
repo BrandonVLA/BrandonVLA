@@ -1,62 +1,68 @@
-# Hi there, I'm Brandon Barrantes! 👋
+# Brandon Barrantes | Software Engineer & Frontend Specialist 🚀
 
-### Junior Front-End Developer | React.js Specialist
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-barrantes-bb0691241)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon.barrantesc10@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](#) 
 
-I am a **Junior Front-End Developer** based in Alajuela, Costa Rica, with a strong focus on building modern, responsive, and scalable web applications. I specialize in **React.js** and I am passionate about creating intuitive user experiences through clean code and efficient state management.
-
----
-
-## 🚀 About Me
-
-- 💻 **Currently focusing on:** Advanced React patterns, Redux, and Flux architecture.
-- 🎓 **Education:** BSc in Systems Engineering from UTC (2024).
-- 📜 **Certification:** Frontend Web Development from VLA Academy.
-- 🗣️ **Languages:** Bilingual (Spanish: Native | English: C1 Advanced).
-- 🧠 **Soft Skills:** Strong problem-solving mindset and experience working in agile, cross-functional environments.
+### Junior Front-End Developer | React.js Specialist | BSc Systems Engineering
+**Bilingual (English C1 / Spanish Native) 🇨🇷 Based in Alajuela, Costa Rica**
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 Professional Profile
 
-### Frontend & UI
-- **Core:** JavaScript (ES6/ES7+), HTML5, CSS3.
-- **Frameworks/Libraries:** React.js (Hooks, JSX), Angular, Vue.js.
-- **Styling:** Tailwind CSS, Flexbox, Grid, Responsive & Mobile-first Design.
-- **State Management:** Redux, Flux.
-- **Testing:** Jest, React Testing Library.
+Software Engineer with a focus on **Frontend Development** and specialized training in **React.js**. I bridge the gap between complex backend logic and intuitive user interfaces. Passionate about clean code, **Flux architecture**, and scalable state management. 
 
-### Backend & Tools
-- **Programming:** Java, PHP, C++, C#, SQL.
-- **Systems:** Oracle APEX.
-- **Tools:** Git, GitHub, REST APIs, Command Line, Debugging Tools.
+- 🎓 **BSc in Systems Engineering** from UTC (2024).
+- 📜 **Certified Frontend Developer** by VLA Academy.
+- ⚡ **Key Competencies:** Technical Troubleshooting, Agile Methodologies, RESTful API Integration, and Responsive Design.
 
 ---
 
-## 📈 Featured Projects
+## 🛠️ Tech Stack & Skills
 
-### Inventory & Billing System (Oracle APEX & React)
-- [cite_start]Designed and developed a comprehensive system utilizing **Oracle APEX** with custom **JavaScript** logic[cite: 27, 28].
-- [cite_start]Built **React prototypes** to modernize UI components, implementing responsive layouts and **REST API** integration[cite: 29, 30].
-- [cite_start]Optimized **SQL queries** and managed full integration between the backend and UI[cite: 31].
+### **Frontend Development**
+`JavaScript (ES6+)` `React.js` `Hooks & Context API` `Redux` `Flux` `HTML5` `CSS3` `Tailwind CSS` `Angular` `Vue.js`
 
-> [cite_start]**Note:** This project was developed as a University Graduation Project (2023). While the source code is currently unavailable for public hosting due to academic/institutional privacy, it represents my foundation in full-stack integration and UI modernization.
+### **Backend & Database**
+`SQL` `Oracle APEX` `Java` `PHP` `C#` `C++`
+
+### **Tools & Testing**
+`Git` `GitHub` `REST APIs` `Jest` `React Testing Library` `Command Line` `Chrome DevTools`
+
+---
+
+## 📈 Featured Engineering Projects
+
+### **Inventory & Billing System (Full-Stack Modernization)**
+*University Graduation Project | Tech: Oracle APEX, React.js, SQL, JavaScript*
+- **Architecture:** Designed a comprehensive system using Oracle APEX coupled with custom JavaScript logic for enhanced interactivity.
+- **UI Modernization:** Developed **React prototypes** to replace legacy components, implementing mobile-first responsive layouts.
+- **Integration:** Managed full lifecycle integration between **REST APIs** and UI, optimizing **SQL queries** to improve data retrieval performance by ensuring efficient backend-frontend communication.
+
+---
 
 ## 💼 Professional Experience
 
-**Amazon | Customer Service Associate (2019 - Present)**
-- Providing technical support and resolving complex logistical issues.
-- Leveraging technical troubleshooting and documentation skills to ensure process compliance and high-quality service.
+### **Amazon | Customer Service Associate**
+*2019 — Present*
+- **Technical Problem Solving:** Resolve complex logistical and technical issues in a high-pressure environment, maintaining top-tier performance metrics.
+- **Documentation & Compliance:** Utilize technical documentation and troubleshooting skills to ensure process integrity and service quality.
+- **Soft Skills:** Collaborative teamwork in cross-functional, global environments and advanced English communication.
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrandonVLA&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Brandon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonVLA&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+I am currently looking for new opportunities as a **Junior Frontend Developer** or **Software Engineer**. If you are looking for a developer who understands both the logic and the experience, let's talk!
 
 - **LinkedIn:** [linkedin.com/in/brandon-barrantes-bb0691241](https://linkedin.com/in/brandon-barrantes-bb0691241)
-- **Email:** brandon.barrantesc10@gmail.com
-- **Location:** Alajuela, Costa Rica 🇨🇷
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrandonVLA&show_icons=true&theme=radical" alt="Brandon's GitHub Stats" />
-</p>
+- **Email:** [brandon.barrantesc10@gmail.com](mailto:brandon.barrantesc10@gmail.com)
