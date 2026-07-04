@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://github.com/BrandonVLA/Portfolio) 
 
-### Junior Front-End Developer | React.js Specialist | BSc Systems Engineering
+### Junior Front-End Developer | React.js | BSc Systems Engineering
 **Bilingual (English C1 / Spanish Native) 🇨🇷 Based in Alajuela, Costa Rica**
 
 ---
