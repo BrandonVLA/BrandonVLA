@@ -23,10 +23,10 @@ Software Engineer with a focus on **Frontend Development** and specialized train
 ## 🛠️ Tech Stack & Skills
 
 ### **Frontend Development**
-`JavaScript (ES6+)` `React.js` `Hooks & Context API` `Redux` `Flux` `HTML5` `CSS3` `Tailwind CSS` `Angular` `Vue.js`
+`JavaScript (ES6+)` `React.js` `Hooks & Context API` `Redux` `HTML5` `CSS3` `Tailwind CSS` `Angular` `Vue.js`
 
 ### **Backend & Database**
-`SQL` `Oracle APEX` `Java` `PHP` `C#` `C++`
+`Node.js` `SQL` `Oracle APEX` `Java` `PHP` `C#` `C++`
 
 ### **Tools & Testing**
 `Git` `GitHub` `REST APIs` `Jest` `React Testing Library` `Command Line` `Chrome DevTools`
